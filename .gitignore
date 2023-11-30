@@ -101,3 +101,6 @@ fabric.properties
 go.work
 
 .idea
+
+# badger db files
+tmp/blocks
